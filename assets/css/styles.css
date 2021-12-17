@@ -1,0 +1,12 @@
+/*=============== COLORS ===============*/
+:root {
+  --indicator-color: hsl(104, 94%, 50%);
+  --body-color: hsl(233, 12%, 14%);
+  --container-color: hsl(233, 12%, 20%);
+  --container-color-light: hsl(233, 12%, 26%);
+}
+
+/*=============== SKEUOMORPHISM TOGGLE SWITCH ===============*/
+
+
+/* Toggle animation effects */
